@@ -41,6 +41,8 @@ Once logged in, users gain access to their personalized dashboard.( **BY ADMIN O
 
 - **Form Validation**: Validation checks prevent users from setting completion times earlier than the current date or a negative priority, ensuring data consistency.
 
+---
+
 ## Installation🛠️
 
 To run **ShopiVerse** locally, follow these steps:
@@ -58,6 +60,8 @@ To run **ShopiVerse** locally, follow these steps:
 11. JWT_SECRET: a_string_used_for_encrypting_tokens
 12 Run the app: `npm run dev`
 
+---
+
 ## Usage💻
 
 1. Register an account using your name, unique email address, and password.
@@ -66,6 +70,8 @@ To run **ShopiVerse** locally, follow these steps:
 4. Update or delete Posts as needed.
 
 Stay motivated, buy products with ShopiVerse !
+
+---
 
 ## License📄
 
