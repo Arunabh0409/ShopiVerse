@@ -36,6 +36,8 @@ Once logged in, users gain access to their personalized dashboard.( **BY ADMIN O
 ### Pagination ( limiting the number of products showed on each page to enhance user experience )
 
 ### Add to Cart ( Add your favourite products to Cart and buy them )
+- **Local Storage Concept For Storing User Products In Browser**
+- **State Management Using Context Api ( Maintaining Global State )**
 
 ### Form Validation
 
