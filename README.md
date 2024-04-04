@@ -26,10 +26,10 @@ ShopiVerse offers a robust user authentication system that ensures secure access
 
 Once logged in, users gain access to their personalized dashboard.( **BY ADMIN ONLY** ) ( **CRUD OPERATIONS ON PRODUCTS** ) 
 
-- **Add Products**: Create new Posts by specifying Posts details.
-- **Update Products**: Modify existing Posts.
-- **Read all Products**: View a comprehensive list of all their Posts.
-- **Delete Products**: Remove obsolete Posts from their list, keeping their dashboard clutter-free.
+- **Add Products**: Create new Products by specifying Posts details.
+- **Update Products**: Modify existing Products.
+- **Read all Products**: View a comprehensive list of all their Products.
+- **Delete Products**: Remove obsolete Products from their list, keeping their dashboard clutter-free.
 
 ### Filteration of Products based on Category + Price Ranges 
 
