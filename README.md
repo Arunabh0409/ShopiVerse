@@ -33,6 +33,8 @@ Once logged in, users gain access to their personalized dashboard.( **BY ADMIN O
 
 ### Filteration of Products based on Category + Price Ranges 
 
+### Search Functionality : Based on User Search Keywords search Products having Matching in Name and Description 
+
 ### Pagination ( limiting the number of products showed on each page to enhance user experience )
 
 ### Add to Cart ( Add your favourite products to Cart and buy them )
