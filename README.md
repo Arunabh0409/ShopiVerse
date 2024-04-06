@@ -13,7 +13,7 @@ Welcome to ShopiVerse🎯!
 ---
 ## Features💫
 
-### User Authentication
+### User Authentication/Authorization
 
 ShopiVerse offers a robust user authentication system that ensures secure access to the app.
 
